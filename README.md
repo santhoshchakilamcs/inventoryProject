@@ -1,3 +1,8 @@
+Manual Inventory Management requires a huge workforce, and it is also error prone. So, there is a need for an effective inventory management. Effective Inventory Management enables the business to save time and increase productivity. The automation of this process would eliminate the manual errors, thus saving cost and time. For larger organization, the process is much complicated. With the recent advancement in the technology, we could solve the above problem with machine automated tasks. The Computer Vision Process aids us in solving the defined problem. With the huge rise in the demand for inventory management, scalability is a major concerned that affects the long term run of the business. With the automated workflow, scalability becomes much simpler and cost efficient. The solution can be replicated to different objects with respective datasets for training and the outcomes are measurable with the proposed evaluation metrics. The problem is identified as a classification problem and upon given an input image from the live camera, the count of the objects in the bin can be predicted using the machine learning model. This notebook walks through the solution of the identified problem.
+
+
+
+
 # Operationalizing-Machine-Learning-on-SageMaker
 As part of Udacity's Nano-Degree Program | Capstone Project
 
